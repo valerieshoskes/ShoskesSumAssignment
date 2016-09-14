@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\bin\Debug\ShoskesSumAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\bin\Debug\ShoskesSumAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\bin\Debug\ShoskesSumAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\obj\Debug\ShoskesSumAssignment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\obj\Debug\ShoskesSumAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesSumAssignment\ShoskesSumAssignment\obj\Debug\ShoskesSumAssignment.pdb
